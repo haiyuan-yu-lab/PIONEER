@@ -31,7 +31,7 @@ The following third-party software should be required:\
 Please open pioneer/config.py and change every path. You need to have all the binaries and third-party software installed in application directories accordingly. For the data cache, you can create an empty folder for each of the cache folders. If you're using empty cache folders, please refer to the next step for required directories and files within these empty cache folders.
 
 The following files in config.py should be downloaded:\
-[uniprot_seq_dict.pkl](https://pioneer.yulab.org/downloads)\
+[uniprot_seqs.txt](https://pioneer.yulab.org/downloads)\
 [uniprot_all.fasta](https://pioneer.yulab.org/downloads)\
 [SASA_perpdb_alltax.txt](https://pioneer.yulab.org/downloads)\
 [SASA_AF_perpdb_alltax.txt](https://pioneer.yulab.org/downloads)\

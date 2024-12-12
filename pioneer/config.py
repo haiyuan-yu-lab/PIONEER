@@ -21,7 +21,7 @@ PAIRPOTENTIAL_CACHE = '/fs/cbsuhyfs1/storage1/PIONEER_data/cached_data/cached_pa
 DISTANCE_MATRIX_CACHE = '/fs/cbsuhyfs1/storage1/PIONEER_data/cached_data/cached_distance_matrix/'
 
 # Data directories and files
-UNIPROT_SEQ_PICKLE_PATH = '/fs/cbsuhyfs1/storage1/PIONEER_data/cached_data/uniprot_seq_dict.pkl'
+UNIPROT_SEQS_PATH = '/fs/cbsuhyfs1/storage1/PIONEER_data/cached_data/uniprot_seqs.txt'
 UNIPROT_ALL_DB = '/fs/cbsuhyfs1/storage1/PIONEER_data/cached_data/uniprot_db_v20200226/uniprot_all.fasta'
 PDB_DATA_DIR = '/fs/cbsuhyfs1/storage/resources/pdb/data/' #storing all the folders at https://files.rcsb.org/pub/pdb/data/structures/divided/pdb/
 SASA_PDB_PATH = '/fs/cbsuhyfs1/storage1/PIONEER_data/cached_data/SASA_perpdb_alltax.txt'
