@@ -36,7 +36,7 @@ The following files in config.py should be downloaded:\
 [SASA_perpdb_alltax.txt](https://pioneer.yulab.org/downloads)\
 [SASA_AF_perpdb_alltax.txt](https://pioneer.yulab.org/downloads)\
 [pdbresiduemapping.txt](https://pioneer.yulab.org/downloads)\
-[AF_predictions.pkl](https://pioneer.yulab.org/downloads)
+[AF_predictions.pkl](https://pioneer.yulab.org/downloads)\
 Please uncompress uniprot_all_db.tar.gz after downloading.
 
 ## Step 4: Required directories and files within cache folders
