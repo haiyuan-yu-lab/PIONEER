@@ -32,11 +32,12 @@ Please open pioneer/config.py and change every path. You need to have all the bi
 
 The following files in config.py should be downloaded:\
 [uniprot_seqs.txt](https://pioneer.yulab.org/downloads)\
-[uniprot_all.fasta](https://pioneer.yulab.org/downloads)\
+[uniprot_all_db.tar.gz](https://pioneer.yulab.org/downloads)\
 [SASA_perpdb_alltax.txt](https://pioneer.yulab.org/downloads)\
 [SASA_AF_perpdb_alltax.txt](https://pioneer.yulab.org/downloads)\
 [pdbresiduemapping.txt](https://pioneer.yulab.org/downloads)\
 [AF_predictions.pkl](https://pioneer.yulab.org/downloads)
+Please uncompress uniprot_all_db.tar.gz after downloading.
 
 ## Step 4: Required directories and files within cache folders
 Even if you work with an empty data cache, there are directories and files that are required for some of the cache folders. In the ModBase cache (MODBASE_CACHE in pioneer/config.py), you need to have the following subdirectories:
